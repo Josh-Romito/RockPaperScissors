@@ -47,9 +47,9 @@ public class RockPaperScissors {
                 if(npcHand == 1)
                     System.out.println("Draw! Try again!");
                 else if(npcHand == 2)
-                    System.out.println("You lose! Paper beats Rock!");
+                    System.out.println("You lose! Paper covers Rock!");
                 else if(npcHand == 3)
-                    System.out.println("You win! Rock beats Scissors");
+                    System.out.println("You win! Rock crushes Scissors");
                 break;
             case(2):
                 if(npcHand == 1)
